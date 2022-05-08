@@ -12,7 +12,7 @@ from wtforms import StringField, TextAreaField, PasswordField, EmailField
 
 2. 웹 페이지 실행 후 페이지 이동할때 URL에 /?page=1 같은 예시로 해야한다
 
-3. 코드에 jquery 버전 유의할것 (현재 나는 3.6버전으로 코딩)
+3. 코드에 jquery 버전 유의할것 (현재 3.6버전으로 코딩)
 
 4. 웹페이지 ![화면 캡처 2022-05-08 211501](https://user-images.githubusercontent.com/85157729/167295709-5b9d36e9-fd06-4b3f-82dd-ec3ba486a2fa.png)
 ![화면 캡처 2022-05-08 211550](https://user-images.githubusercontent.com/85157729/167295710-61b7d90c-ccdf-4b7f-a611-6c63e2740f6e.png)
