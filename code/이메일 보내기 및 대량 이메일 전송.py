@@ -177,7 +177,7 @@ for i in range(1, load_ws.max_row + 1): # 1부터 엑셀의 마지막 행까지 
     
     try: # 에러가 없으면 메일을 보낸다.
         send_email = 'rlaejrqo465@naver.com'
-        send_pwd = 'ghkdrldns1@'
+        send_pwd = '@'
         
         recv_email = recv_email_value
         
